@@ -2,7 +2,7 @@ export const info = {
   baseUrl: "https://astro-portfolio-uzair.vercel.app",
   name: "Jorge Montesinos",
   jobDescription: "Fullstack Developer",
-  about: `Desarrollador de software especializado en JavaScript, NodeJS, React y C#, con una pasión por la innovación educativa. He guiado a más de 100 estudiantes en su viaje tecnológico, fusionando desarrollo y enseñanza. Mi enfoque: crear soluciones que inspiren y transformen. Busco oportunidades para amplificar el impacto positivo de la tecnología en la educación y más allá.
+  about: `Desarrollador de software con más de 3 años de experiencia en desarrollo web, especializado en JavaScript, Node.js, React y C#. Me interesa la innovación y el uso de datos para crear soluciones efectivas. He guiado a más de 150 estudiantes de Perú, Colombia, México y Chile, combinando enseñanza y desarrollo para generar un impacto positivo.
   `,
 
   experience: [
@@ -12,9 +12,9 @@ export const info = {
       startDate: "Mayo 2024",
       endDate: "Actualidad",
       description: [
-        "Enseño a estudiantes desde las bases de Git, HTML, CSS y JavaScript hasta tecnologías avanzadas como Node.js, Angular y React, preparándolos para dominar una amplia gama de habilidades en desarrollo web.",
-        "Guio a los alumnos en la creación de proyectos reales, asegurando que aplicaran sus conocimientos de manera práctica y efectiva en entornos de desarrollo.",
-        "Capacito a los estudiantes para que los proyectos se desarrollen usando herramientas como Lighthouse, Jest y React Testing Library, permitiéndoles implementar pruebas de rendimiento y funcionales de manera efectiva.",
+        "✓ Enseño a estudiantes desarrollo web, desde los fundamentos de Git, HTML, CSS y JavaScript, hasta tecnologías avanzadas como Node.js, Angular y React. Los preparo para dominar este espectro de tecnologías",
+        "✓ Busco transformar el conocimiento en acción al guiar a los alumnos en la creación de proyectos reales, asegurando que apliquen sus habilidades de manera práctica y efectiva en entornos de desarrollo profesional.",
+        "✓ Formo desarrolladores expertos en el uso de herramientas de como Lighthouse, Jest y React Testing Library, permitiéndoles implementar pruebas de rendimiento y usabilidad.",
       ],
     },
     {
@@ -23,20 +23,20 @@ export const info = {
       startDate: "Mayo 2022",
       endDate: "Junio 2024",
       description: [
-        "✓ Proporcioné asistencia técnica en Proyectos con JavaScript, React, Node.js y C# a más de 150 estudiantes de Chile, Perú, Colombia y México. Evalué y proporcioné feedback en proyectos utilizando estas tecnologías.",
-        "✓ Contribuí al desarrollo, documentación y testing de proyectos de manera colaborativa utilizando GitHub y GitHub Projects. Realicé pruebas con Jest y Playwright en entornos con JavaScript, React, Node.js, y Prism",
+        "✓ Fortalecí las habilidades técnicas de más de 150 estudiantes en Chile, Perú, Colombia y México, brindando soporte en proyectos con JavaScript, React, Node.js y C#. Evalué y proporcioné feedback constructivo para impulsar su desarrollo.",
+        "✓ Contribuí en el desarrollo, documentación y pruebas de proyectos usando GitHub y GitHub Projects. Realicé pruebas rigurosas con Jest y Playwright en aplicaciones internas de la organización.",
+        "✓ Implementé herramientas de análisis, como encuestas de desempeño estudiantil a través de Forms y Looker Studio, que brindaron al equipo datos cruciales para tomar decisiones informadas y elevar el rendimiento técnico de las estudiantes.",
       ],
     },
-
     {
       name: "Conflux SRL",
       location: "Perú",
       startDate: "Julio 2021",
       endDate: "Mayo 2022",
       description: [
-        "✓ Desarrollé funcionalidades y solucioné problemas en aplicaciones de facturación electrónica utilizando React, React Native, Redux y Node.js con Express.js, mejorando la funcionalidad y la experiencia del usuario en estos sistemas.",
-        "✓ Desarrollé una aplicación en Next.js para que los usuarios de la compañía realicen consultas de RUC, DNI y otros datos, integrando documentación en diferentes lenguajes de programación para facilitar la integración de la API en sus propias aplicaciones. Implementé validación mediante JWT para garantizar la seguridad y autenticación adecuada.",
-        "✓ Desarrollé módulos para Odoo utilizando Python, JavaScript y el framework OWL, contribuyendo al desarrollo y expansión del sistema de POS de Odoo.",
+        "✓ Colaboré en el desarrollo de sistemas de facturación electrónica al desarrollar y optimizar aplicaciones usando React, React Native, Redux y Node.js con Express.js, buscando mejorar las funcionalidades y la experiencia del usuario.",
+        "✓ Diseñé una aplicación de consulta en Next.js, integrando capacidades de búsqueda avanzada de RUC, DNI y otros datos, con documentación en múltiples lenguajes para facilitar la integración API. Implementé autenticación segura mediante JWT.",
+        "✓ Contribuí al crecimiento de Odoo desarrollando módulos personalizados en Python, JavaScript y OWL, ampliando y mejorando las capacidades del sistema de punto de venta (POS) de Odoo.",
       ],
     },
   ],
