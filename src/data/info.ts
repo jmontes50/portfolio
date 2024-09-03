@@ -1,97 +1,83 @@
 export const info = {
   baseUrl: "https://astro-portfolio-uzair.vercel.app",
-  name: "Uzair Ahmed",
-  jobDescription: "Web Developer",
-  about: `I'm a software engineer based in Karachi, Pakistan.
-   I enjoy creating things that live on the internet, whether that be websites, applications, or anything in between.
-   I have been working for 3 year, with a demonstrated history of working in the Computer Software industry. Skilled in Front-end Development.
-   I have 3 years of experience in HTML, CSS, SCSS, JavaScript, Bootstrap, tailwind CSS, StyledComponent, React JS and Next JS. Hence,
-   I have successfully completed several web projects from scratch. 
-   Yet, I learn continuously and never stop exploring new technologies.
-   So, I have also gained knowledge of Node JS, Express JS, Mongo DB, Python,
-   firebase and React Native with time.
+  name: "Jorge Montesinos",
+  jobDescription: "Fullstack Developer",
+  about: `Desarrollador de software con más de 3 años de experiencia en desarrollo web, especializado en JavaScript, Node.js, React y C#. Me interesa la innovación y el uso de datos para crear soluciones efectivas. He guiado a más de 150 estudiantes de Perú, Colombia, México y Chile, combinando enseñanza y desarrollo para generar un impacto positivo.
   `,
 
   experience: [
     {
-      name: "InterNative Labs, LLC",
-      location: "Karāchi, Sindh, Pakistan",
-      startDate: "Apr 2022",
-      endDate: "Present",
+      name: "Tecsup",
+      location: "Perú",
+      startDate: "Mayo 2024",
+      endDate: "Actualidad",
       description: [
-        "- Developing screens and UI components for the web application using React and Tailwind.",
-        "- Fixing UI issues and integrating backend APIs with Redux Saga.",
+        "✓ Enseño a estudiantes desarrollo web, desde los fundamentos de Git, HTML, CSS y JavaScript, hasta tecnologías avanzadas como Node.js, Angular y React. Los preparo para dominar este espectro de tecnologías",
+        "✓ Busco transformar el conocimiento en acción al guiar a los alumnos en la creación de proyectos reales, asegurando que apliquen sus habilidades de manera práctica y efectiva en entornos de desarrollo profesional.",
+        "✓ Formo desarrolladores expertos en el uso de herramientas de como Lighthouse, Jest y React Testing Library, permitiéndoles implementar pruebas de rendimiento y usabilidad.",
       ],
     },
-
     {
-      name: "Coupon Approve (Remote)",
-      location: "Amsterdam, North Holland, Netherlands",
-      startDate: "Nov 2020",
-      endDate: "Apr 2022",
+      name: "Laboratoria",
+      location: "Perú",
+      startDate: "Mayo 2022",
+      endDate: "Junio 2024",
       description: [
-        "✓ Developing code in accordance with appropriate design and architectural rules",
-        "✓ Documenting, testing, deployment, maintenance, support of platforms, applications, databases and solutions",
-        "✓ Help and training of other colleagues",
-        "✓ Others tasks connected to the nature of the job",
-        "✓ Code Improvements and Refactoring ",
-        "✓ Best Practices and Rules Maintainer",
+        "✓ Fortalecí las habilidades técnicas de más de 150 estudiantes en Chile, Perú, Colombia y México, brindando soporte en proyectos con JavaScript, React, Node.js y C#. Evalué y proporcioné feedback constructivo para impulsar su desarrollo.",
+        "✓ Contribuí en el desarrollo, documentación y pruebas de proyectos usando GitHub y GitHub Projects. Realicé pruebas rigurosas con Jest y Playwright en aplicaciones internas de la organización.",
+        "✓ Implementé herramientas de análisis, como encuestas de desempeño estudiantil a través de Forms y Looker Studio, que brindaron al equipo datos cruciales para tomar decisiones informadas y elevar el rendimiento técnico de las estudiantes.",
       ],
     },
-
     {
-      name: "Interns Pakistan",
-      location: "Pakistan",
-      startDate: "Oct 2020",
-      endDate: "Nov 2020",
+      name: "Conflux SRL",
+      location: "Perú",
+      startDate: "Julio 2021",
+      endDate: "Mayo 2022",
       description: [
-        "An Immersive Internship Program that prepares me for the world's most in-demand career. A six weeks program completely based on learning and challenges.",
-        "The internship track is built by an industry expert that let develop the skills in the areas most important ",
+        "✓ Colaboré en el desarrollo de sistemas de facturación electrónica al desarrollar y optimizar aplicaciones usando React, React Native, Redux y Node.js con Express.js, buscando mejorar las funcionalidades y la experiencia del usuario.",
+        "✓ Diseñé una aplicación de consulta en Next.js, integrando capacidades de búsqueda avanzada de RUC, DNI y otros datos, con documentación en múltiples lenguajes para facilitar la integración API. Implementé autenticación segura mediante JWT.",
+        "✓ Contribuí al crecimiento de Odoo desarrollando módulos personalizados en Python, JavaScript y OWL, ampliando y mejorando las capacidades del sistema de punto de venta (POS) de Odoo.",
       ],
     },
   ],
 
   education: [
     {
-      name: "Pakistan Institute of Professional Science & Technology (PIPS-TECH)",
-      location: "Karāchi, Sindh, Pakistan",
-      startDate: "2019",
-      endDate: "2022",
-      description: [
-        "Diploma of Associate Engineering,  Computer Information Technology (CIT)",
-      ],
-    },
-    {
-      name: "Govt. Degree Boys College Buffer Zone",
-      location: "Karāchi, Sindh, Pakistan",
+      name: "Universidad Nacional de San Agustín",
+      location: "Arequipa, Perú",
       startDate: "2018",
-      endDate: "2020",
-      description: ["Intermediate, Pre-Engineering"],
+      endDate: "2019",
+      description: ["Egresado de la Maestría en Gestión de Proyectos"],
     },
     {
-      name: "Ghazi Foundation Schools & Colleges",
-      location: "Karāchi, Sindh, Pakistan",
-      startDate: "2016",
-      endDate: "2018",
-      description: ["Matriculation,  Computer Science"],
+      name: "Universidad Antonio Ruiz de Montoya",
+      location: "Lima, Perú",
+      startDate: "2011",
+      endDate: "2014",
+      description: ["Bachiller en Ingeniería Industrial"],
+    },
+    {
+      name: "Tecsup",
+      location: "Arequipa, Perú",
+      startDate: "2007",
+      endDate: "2009",
+      description: ["Profesional en Redes y comunicaciones de datos"],
     },
   ],
 
   socialMedia: {
-    facebook: "https://www.facebook.com/profile.php?id=100022899849583",
-    twitter: "https://twitter.com/Uzzii_21",
-    github: "https://github.com/uzzii-21",
-    email: "mailto:uzairahmed@74372gmail.com",
-    linkedin: "https://www.linkedin.com/in/uzzii21/",
+    github: "https://github.com/jmontes50",
+    email: "mailto:osmarmontes50@gmail.com",
+    linkedin: "https://www.linkedin.com/in/osmarmontesinos/",
   },
 
   projects: [
     {
       title: "Astro Portfolio",
       isFeatured: true,
-      thumbnail: "/assets/images/astro-portfolio.png",
-      githubUrl: "https://github.com/uzzii-21/astro-portfolio",
-      liveUrl: "https://astro-portfolio-uzair.vercel.app/",
+      thumbnail: "/assets/images/edumira.webp",
+      githubUrl: "https://github.com/jmontes50/seminario",
+      liveUrl: "https://seminario.vercel.app/",
     },
   ],
 };
