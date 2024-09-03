@@ -2,7 +2,7 @@ export const info = {
   baseUrl: "https://astro-portfolio-uzair.vercel.app",
   name: "Jorge Montesinos",
   jobDescription: "Fullstack Developer",
-  about: `Soy un desarrollador de software especializado en JavaScript, NodeJS, React y C#, con una pasión por la tecnología y la educación. Mi carrera combina el desarrollo de proyectos con la enseñanza, habiendo impactado positivamente a más de 100 estudiantes como JS Coach en Laboratoria y Mentor en Código de Tecsup. He participado en diversos proyectos utilizando principalmente JavaScript, React, React Native y NodeJS, contribuyendo en áreas como documentación, desarrollo y testing. Mi objetivo es seguir explorando cómo la tecnología puede ser un catalizador para el cambio positivo, buscando constantemente nuevas formas de innovar y colaborar en el mundo del desarrollo de software y la educación tecnológica.
+  about: `Desarrollador de software especializado en JavaScript, NodeJS, React y C#, con una pasión por la innovación educativa. He guiado a más de 100 estudiantes en su viaje tecnológico, fusionando desarrollo y enseñanza. Mi enfoque: crear soluciones que inspiren y transformen. Busco oportunidades para amplificar el impacto positivo de la tecnología en la educación y más allá.
   `,
 
   experience: [
