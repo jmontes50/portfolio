@@ -73,11 +73,25 @@ export const info = {
 
   projects: [
     {
-      title: "Astro Portfolio",
+      title: "Landing Page de Registro para el Evento Educativo Edumira",
       isFeatured: true,
       thumbnail: "/assets/images/edumira.webp",
       githubUrl: "https://github.com/jmontes50/seminario",
       liveUrl: "https://seminario.vercel.app/",
     },
+    {
+      title: "Ecommerce con tailwind",
+      isFeatured: true,
+      thumbnail: "/assets/images/ecommerce26.webp",
+      githubUrl: "https://github.com/jmontes50/ecommerce26",
+      liveUrl: "https://ecommerce26.vercel.app/",
+    },
+    {
+      title: "TDAH Helper",
+      isFeatured: true,
+      thumbnail: "/assets/images/tdah_helper.webp",
+      githubUrl: "https://github.com/jmontes50/tdah-helper",
+      liveUrl: "https://jmontes50.github.io/tdah-helper/",
+    }
   ],
 };
